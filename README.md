@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/sidharthrajaram-mcp-sse-badge.png)](https://mseep.ai/app/sidharthrajaram-mcp-sse)
+
 # SSE-based Server and Client for [MCP](https://modelcontextprotocol.io/introduction)
 
 [![smithery badge](https://smithery.ai/badge/@sidharthrajaram/mcp-sse)](https://smithery.ai/server/@sidharthrajaram/mcp-sse)
